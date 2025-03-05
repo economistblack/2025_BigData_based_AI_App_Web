@@ -1,7 +1,5 @@
 void main() {
   Car bmw = Car(320, 100000, 'BMW');
-  Car toyota = Car(250, 70000, 'TOYOTA');
-  Car ford = Car(200, 80000, 'FORD');
   
   int i;
 
